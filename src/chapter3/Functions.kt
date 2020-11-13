@@ -23,7 +23,7 @@ fun sum(x: Int, y: Int, z: Int): Int { // this return the sum of all the numbers
 
 }
 
-fun max( a: Int, b:Int) = if(a > b) a else b
+fun max(a: Int, b: Int) = if (a > b) a else b
 
 //fun maxValue(args: Array<Int>):Int{
 //    var max1 = args[0]
@@ -40,7 +40,7 @@ fun max( a: Int, b:Int) = if(a > b) a else b
 fun main() {
     doSomething("Hi", 2)
     kidsNames("Chonchito")
-    sum(3,5,8)
-    max(6,8)
+    sum(3, 5, 8)
+    max(6, 8)
 
 }

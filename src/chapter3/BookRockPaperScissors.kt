@@ -23,7 +23,7 @@ fun getUserChoice(optionsParam: Array<String>): String {
         for (item in optionsParam) print(" $item")
         println(".")
         //to read the user's response
-        var userInput =    readLine()
+        var userInput = readLine()
         if (userInput != null) {
             userInput = userInput.capitalize()
         }

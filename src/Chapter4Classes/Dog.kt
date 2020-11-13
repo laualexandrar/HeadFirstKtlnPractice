@@ -1,24 +1,23 @@
 package Chapter4Classes
 
-class Dog (var name: String, var breed: String, var weight: Int){
+class Dog(var name: String, var breed: String, var weight: Int) {
 
-    fun bark(){
-        println(if (weight <  30) "Yip!" else "wufff")
+    fun bark() {
+        println(if (weight < 30) "Yip!" else "wufff")
     }
-
 
 
 }
 
-fun main(){
+fun main() {
 
-    var myDog = Dog("Taquito", "Pug", 50 )
+    var myDog = Dog("Taquito", "Pug", 50)
     var dogs = arrayOf(Dog("mimi", " Pug", 33), Dog("Paquito", "puddle", 22), Dog("Pepe", "Pug", 33))
 
     myDog.bark()
     myDog.weight = 22
     myDog.name = "Petunia"
-    myDog.breed =  "puddle"
+    myDog.breed = "puddle"
 
     dogs[0].name = "Patricio"
     println(dogs[0].name)
