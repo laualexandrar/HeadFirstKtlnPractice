@@ -3,7 +3,7 @@ package Chapter4Classes
 class Products(
     var name: String,
     var category: String,
-    price_param: Double,
+    price_param: Int,
     color_param: String
 ) { // (var name: String, var category: String, var price: Int) -> this is my primary constructor
 
@@ -13,7 +13,7 @@ class Products(
             if (value > 0) field = value
         }
 
-    val priceInColombianPesos: Double
+    val priceInColombianPesos: Int
         get() = price * 3650
 
     fun category() {
@@ -33,9 +33,9 @@ class Products(
 fun main() {
 
     var firstProduct =
-        Products("Yogurt", "Dairy", 3.00, "blue") // Products("Yogurt", "Dairy", 3) this is my constructor
-    var secondProduct = Products("Filet Mignon", "Meat & Seafood", 10.00, "pink")
-    var thirdProduct = Products("Chicken", "Meat & Seafood", 9.25, "white")
+        Products("Yogurt", "Dairy", 3, "blue") // Products("Yogurt", "Dairy", 3) this is my constructor
+    var secondProduct = Products("Filet Mignon", "Meat & Seafood", 10, "pink")
+    var thirdProduct = Products("Chicken", "Meat & Seafood", 9, "white")
 
     firstProduct.category()
     secondProduct.category()
@@ -45,7 +45,9 @@ fun main() {
     thirdProduct.productPrice()
 
 
-    firstProduct.priceInColombianPesos
+    println("The price in Colombian pesos is ${firstProduct.priceInColombianPesos}")
+    firstProduct.price = 82
+    println("my price is ${firstProduct.price}")
 
 
 }
