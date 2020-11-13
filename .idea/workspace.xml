@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chapter4Classes/Drumkit.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4Classes/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4Classes/Dog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chapter4Classes/Employees.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4Classes/Employees.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/Products.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/Products.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/ProductsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/ProductsKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter4Classes/Products.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter4Classes/Products.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/BookRockPaperScissors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/BookRockPaperScissors.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/Functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter3/RockPaperScissors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter3/RockPaperScissors.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Chapter4Classes.DrumkitKt">
+  <component name="RunManager" selected="Kotlin.Chapter4Classes.ProductsKt">
     <configuration name="Chapter4Classes.DogKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -114,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Chapter4Classes.DrumkitKt" />
         <item itemvalue="Kotlin.Chapter4Classes.ProductsKt" />
+        <item itemvalue="Kotlin.Chapter4Classes.DrumkitKt" />
         <item itemvalue="Kotlin.Chapter4Classes.EmployeesKt" />
         <item itemvalue="Kotlin.Chapter4Classes.DogKt" />
         <item itemvalue="Kotlin.chapter3.BookRockPaperScissorsKt" />
