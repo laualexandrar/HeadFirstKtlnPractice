@@ -1,4 +1,4 @@
-package Chapter4Classes
+package chapter4Classes
 
 class Employees(var name: String, var lastName: String, var age: Int) {
 

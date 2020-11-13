@@ -1,4 +1,4 @@
-package Chapter4Classes
+package chapter4Classes
 
 class Drumkit(var hasTopHat: Boolean, var hasSnare: Boolean) {
 

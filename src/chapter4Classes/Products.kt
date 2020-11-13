@@ -1,4 +1,4 @@
-package Chapter4Classes
+package chapter4Classes
 
 class Products(
     var name: String,

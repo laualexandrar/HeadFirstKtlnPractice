@@ -1,4 +1,4 @@
-package Chapter4Classes
+package chapter4Classes
 
 class Dog(var name: String, var breed: String, var weight: Int) {
 
