@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter4Classes/KitchenProducts.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/DogKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/Drumkit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/DrumkitKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/Employees.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/EmployeesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/Products.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/Chapter4Classes/ProductsKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter4Classes/Rectangle.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
