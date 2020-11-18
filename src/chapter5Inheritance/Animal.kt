@@ -25,3 +25,13 @@ println("The animal is roaming")
         "The animal is sleeping"
     }
 }
+
+//fun main() {
+//    val animals = arrayOf(Hippo(), Wolf())
+//    for (item in animals) {
+//        item.roam()
+//        item.makeNoise()
+//        item.sleep()
+//        item.eat()
+//    }
+//}
