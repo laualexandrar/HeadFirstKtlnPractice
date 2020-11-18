@@ -7,7 +7,7 @@ open class Animal {
     open val image = ""
     open val food = ""
     open val habitat = ""
-    var hunger = 10
+    open var hunger = 10
 
     open fun makeNoise() {
         println("The animal is making noise")
@@ -18,7 +18,7 @@ open class Animal {
     }
 
     open fun roam() {
-
+println("The animal is roaming")
     }
 
     open fun sleep() {
