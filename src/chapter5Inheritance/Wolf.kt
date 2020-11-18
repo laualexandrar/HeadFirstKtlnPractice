@@ -9,8 +9,9 @@ class Wolf :Canine (){
     override fun makeNoise(){
         println("Hooooooowl!")
     }
-    
+
     override fun eat(){
         println("The wolf is eathing food")
     }
 }
+
