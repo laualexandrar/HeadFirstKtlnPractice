@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter5Inheritance/Roamable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter5Inheritance/Vehicle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter5Inheritance/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5Inheritance/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5Inheritance/Canine.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5Inheritance/Canine.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -27,6 +29,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="chapter5Inheritance" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
