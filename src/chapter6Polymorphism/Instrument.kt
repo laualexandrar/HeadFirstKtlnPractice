@@ -1,11 +1,14 @@
 package chapter6Polymorphism
 
-abstract class Instrument {
+abstract class Instrument: Playable {
 
     abstract val type: String
     abstract val color: String
     abstract fun makeSound()
 
+    override fun play() {
+        println("The instrument is playing")
+    }
 
 }
 
@@ -25,5 +28,8 @@ fun main() {
 
     for (item in instruments) {
         item.makeSound()
+        println(item.color)
+        println(item.type)
+
     }
 }

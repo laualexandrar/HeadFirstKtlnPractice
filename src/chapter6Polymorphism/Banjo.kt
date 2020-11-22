@@ -5,7 +5,7 @@ class Banjo : Strings() {
     override val color: String = "Blue"
 
     override fun makeSound() {
-        println("shrrrr shrrrrr")
+        println("The banjo $color of type $type sounds shrrrr shrrrrr")
     }
 
 }

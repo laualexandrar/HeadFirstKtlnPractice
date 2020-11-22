@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Banjo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Brass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Flute.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Guitar.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Marimba.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Percussion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Piano.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Recorder.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Saxophone.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/SnareDrum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Strings.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Trumpet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Violin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Woodwinds.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Playable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Radio.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter5Inheritance/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5Inheritance/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter6Polymorphism/ToyStore.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Instrument.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6Polymorphism/Banjo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Banjo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6Polymorphism/Instrument.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Instrument.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -61,20 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter7Data.RecipeKt">
-    <configuration name="chapter4Classes.RectangleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter4Classes.RectangleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.chapter6Polymorphism.InstrumentKt">
     <configuration name="chapter5Inheritance.AnimalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -114,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter6Polymorphism.InstrumentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter6Polymorphism.InstrumentKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chapter7Data.RecipeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -129,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter6Polymorphism.InstrumentKt" />
         <item itemvalue="Kotlin.chapter7Data.RecipeKt" />
         <item itemvalue="Kotlin.chapter5Inheritance.AnimalKt" />
         <item itemvalue="Kotlin.chapter5Inheritance.VetKt" />
         <item itemvalue="Kotlin.chapter5Inheritance.Monster.MonsterKt" />
-        <item itemvalue="Kotlin.chapter4Classes.RectangleKt" />
       </list>
     </recent_temporary>
   </component>
