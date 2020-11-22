@@ -4,9 +4,9 @@ import java.awt.Image
 
 abstract class Animal : Roamable {
 
-    abstract val image : String
-    abstract val food : String
-    abstract val habitat : String
+    abstract val image: String
+    abstract val food: String
+    abstract val habitat: String
     open var hunger = 10
 
     abstract fun makeNoise()
@@ -14,7 +14,7 @@ abstract class Animal : Roamable {
     abstract fun eat()
 
     override fun roam() {
-println("The animal is roaming")
+        println("The animal is roaming")
     }
 
     open fun sleep() {
@@ -22,10 +22,10 @@ println("The animal is roaming")
     }
 }
 
-fun main (){
+fun main() {
 
-    val animals = arrayOf(Hippo(),Wolf())
-    for (item in animals){
+    val animals = arrayOf(Hippo(), Wolf())
+    for (item in animals) {
         item.roam()
         item.eat()
     }
@@ -38,9 +38,9 @@ fun main (){
     vet.giveShot(hippo)
 
     val roamables = arrayOf(Hippo(), Wolf(), Vehicle())
-    for (item in roamables){
+    for (item in roamables) {
         item.roam()
-        if(item is Animal){
+        if (item is Animal) {
             item.eat()
         }
     }

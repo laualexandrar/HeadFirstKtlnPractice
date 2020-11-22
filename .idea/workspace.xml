@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/ToyStore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Banjo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Brass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Flute.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Guitar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Marimba.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Percussion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Piano.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Recorder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Saxophone.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/SnareDrum.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Strings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Trumpet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Violin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Woodwinds.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter5Inheritance/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter5Inheritance/Animal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6Polymorphism/ToyStore.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter6Polymorphism/Instrument.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
