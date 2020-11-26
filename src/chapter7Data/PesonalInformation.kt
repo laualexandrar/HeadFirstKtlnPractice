@@ -1,6 +1,6 @@
 package chapter7Data
 
-data class PersonalInformation (val name:String, val lastName: String, val id: Int, val education: String, val address: String){
+data class PersonalInformation (val name:String, val lastName: String, val id: Int?, val education: String, val address: String?){
 
 }
 
@@ -14,6 +14,7 @@ fun main(){
     val person3 = person2.copy("Ismael", "Alvarez" , 2134235)
     val person4 = person1.copy(address = "900 Seneca avenue")
     val person5 = person3.copy()
+    val person6 = PersonalInformation("pepe", "Rogelio", null, "university", null)
 
     println(person1.hashCode())
     println(person2.hashCode())
@@ -33,4 +34,12 @@ fun main(){
     println("")
 
     println(addInfo("patricia" , "Smith"))
+
+
+//   val persons = arrayOf(person1,person2,person3,person4,person5,person6)
+//
+//    for(item in persons){
+//
+//        item?.let{print(it)}
+//    }
 }
