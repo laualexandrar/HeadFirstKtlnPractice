@@ -15,7 +15,7 @@ fun main() {
 
     println("${myHomeAppliancesArray[1].name} ${myHomeAppliancesArray[2].name} ${myHomeAppliancesArray[3].name}")
 
-    for (item in myHomeAppliancesArray){
+    for (item in myHomeAppliancesArray) {
         println(item.name)
         println(item.type)
         println(item.quantity)

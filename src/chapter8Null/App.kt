@@ -1,18 +1,18 @@
 package chapter8Null
 
-class Wolf{
+class Wolf {
     var hunger = 10
     val food = "meat"
 
-    fun eat(){
+    fun eat() {
         println("The Wolf is eating $food")
     }
 }
 
-class MyWolf{
-    var wolf:Wolf? = Wolf()
+class MyWolf {
+    var wolf: Wolf? = Wolf()
 
-    fun myFunction(){
+    fun myFunction() {
         wolf?.eat()
     }
 }
@@ -24,7 +24,7 @@ fun getAlphaWolf(): Wolf? {
 fun main() {
     var w: Wolf? = Wolf()
 
-    if(w != null){
+    if (w != null) {
         w.eat()
     }
 
@@ -39,14 +39,14 @@ fun main() {
     println("The value of myWolf?.wolf?.hunger is ${myWolf?.wolf?.hunger}")
 
     var myArray = arrayOf("Hi", "Hello", null)
-    for (item in myArray){
-        item?.let { println(it)}
+    for (item in myArray) {
+        item?.let { println(it) }
     }
 
     getAlphaWolf()?.let { it.eat() }
 
     w = null
-   // var z = w!!.hunger // is ull pointer exception
+    // var z = w!!.hunger // is ull pointer exception
 
 
 }

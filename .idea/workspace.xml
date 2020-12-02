@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter8Null/Ducks/Duck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter8Null/Ducks/MyDucks.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8Null/BadException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter8Null/BadException2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter7Data/PersonalInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter7Data/PersonalInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter7Data/PesonalInformationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter7Data/PesonalInformationKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PracticingCoding/HomeAppliances.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/PracticingCoding/HomeAppliances.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7Data/PesonalInformation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter7Data/PesonalInformation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8Null/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8Null/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8Null/Cat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8Null/Cat.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8Null/Ducks/Duck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter8Null/Ducks/Duck.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.PracticingCoding.HomeAppliancesKt">
+  <component name="RunManager" selected="Kotlin.chapter8Null.BadExceptionKt">
     <configuration name="PracticingCoding.HomeAppliancesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -73,19 +81,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter7Data.RecipeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter7Data.RecipeKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="chapter8Null.AppKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -94,6 +89,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chapter8Null.AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter8Null.BadExceptionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter8Null.BadExceptionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter8Null.BadExceptionKt" />
         <item itemvalue="Kotlin.PracticingCoding.HomeAppliancesKt" />
         <item itemvalue="Kotlin.chapter7Data.PesonalInformationKt" />
         <item itemvalue="Kotlin.chapter8Null.AppKt" />
         <item itemvalue="Kotlin.chapter8Null.CatKt" />
-        <item itemvalue="Kotlin.chapter7Data.RecipeKt" />
       </list>
     </recent_temporary>
   </component>
