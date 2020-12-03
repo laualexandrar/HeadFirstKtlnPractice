@@ -4,20 +4,30 @@ class BadException2 : Exception()
 
 fun myFunction(test: String) {
     try {
-
-        if (test == "yes") {
-
-        }
+        print("t")
+        riskyCode1(test)
+        print("o")
     } catch (e: BadException2) {
-
-        throw BadException2()
+        print("a")
 
     } finally {
-        print("s")
+
+        print("w")
+
     }
+    print("s")
+
 }
 
 fun riskyCode1(test: String) {
+
+
+    print("h")
+
+    if (test == "yes") {
+        throw BadException2()
+    }
+    print("r")
 
 }
 
