@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter9Collections/Duck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter9Collections/Pets.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PetsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PetsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Pets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Pets.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
