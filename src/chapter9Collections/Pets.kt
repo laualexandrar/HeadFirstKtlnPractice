@@ -22,13 +22,13 @@ fun main() {
 
     println("This is the size of my pets List: ${pets.size}")
 
-    val petsSet = pets.toSet()
+    val petsSet = pets.toMutableSet()
 
     println("These are the types of animals that I have: $petsSet")
 
     println("This is the number of types of animals that I have: ${petsSet.size}")
 
-    val petsList = petsSet.toList()
+    val petsList = petsSet.toMutableList()
 
     println("This is my list sorted: ${petsList.sorted()}")
 
