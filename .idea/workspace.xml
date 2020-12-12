@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Pets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Pets.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/CollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/CollectionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PetsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PetsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter9Collections.PetsKt">
+  <component name="RunManager" selected="Kotlin.chapter9Collections.CollectionsKt">
     <configuration name="chapter8Null.BadExceptionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -113,9 +115,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter9Collections.CollectionsKt" />
         <item itemvalue="Kotlin.chapter9Collections.PetsKt" />
         <item itemvalue="Kotlin.chapter9Collections.DuckKt" />
-        <item itemvalue="Kotlin.chapter9Collections.CollectionsKt" />
         <item itemvalue="Kotlin.chapter9Collections.ActivityOneKt" />
         <item itemvalue="Kotlin.chapter8Null.BadExceptionKt" />
       </list>
