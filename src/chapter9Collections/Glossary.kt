@@ -1,8 +1,9 @@
 package chapter9Collections
 
-class Glossary{
+class Glossary {
 
 }
+
 fun main() {
     val term1 = "Array"
     val term2 = "List"
@@ -20,12 +21,14 @@ fun main() {
     val def6 = "Can be resized."
     val def7 = "Can't be resized."
 
-    val glossary = mapOf(term4 to "$def3 $def4 $def6",
-    term7 to "$def1 $def5 $def7",
-    term1 to "$def3 $def4 $def7",
-    term5 to "$def2 $def4 $def6",
-    term2 to "$def3 $def5 $def7",
-    term6 to "$def1 $def4 $def6",
-    term3 to "$def2 $def5 $def7")
-    for ( (key, value) in glossary) println("$key: $value")
+    val glossary = mapOf(
+        term4 to "$def3 $def4 $def6",
+        term7 to "$def1 $def5 $def7",
+        term1 to "$def3 $def4 $def7",
+        term5 to "$def2 $def4 $def6",
+        term2 to "$def3 $def5 $def7",
+        term6 to "$def1 $def4 $def6",
+        term3 to "$def2 $def5 $def7"
+    )
+    for ((key, value) in glossary) println("$key: $value")
 }
