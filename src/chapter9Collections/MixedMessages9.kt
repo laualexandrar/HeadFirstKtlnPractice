@@ -17,11 +17,15 @@ fun main() {
 //    println(mMap.values)     Here the outPut is [basketball]
 
     //case3
-    mList.addAll(mList)
-    mList.reverse()
-    val set = mList.toSet()
-    println(set)
+//    mList.addAll(mList)
+//    mList.reverse()
+//    val set = mList.toSet()
+//    println(set)  The output is [Basketball, Baseball, Football]
 
+    //Case4
+    mList.sort()
+    mList.reverse()
+    println(mList)
 
 //Example
 //    val numbersMap = mutableMapOf("one" to 1, "two" to 2)
@@ -34,7 +38,6 @@ fun main() {
 //    val previousValue = numbersMap.put("one", 11)
 //    println("value associated with 'one', before: $previousValue, after: ${numbersMap["one"]}")
 //    println(numbersMap)
-
 
 
 }

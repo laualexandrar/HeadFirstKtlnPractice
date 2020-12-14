@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter9Collections/PracticingWithCollections.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/MixedMessages9Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/MixedMessages9Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Duck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Duck.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapter9Collections/MixedMessages9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/MixedMessages9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/activityOne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/activityOne.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter9Collections.MixedMessages9Kt">
+  <component name="RunManager" selected="Kotlin.chapter9Collections.PracticingWithCollectionsKt">
     <configuration name="chapter9Collections.CollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -55,19 +60,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chapter9Collections.CollectionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chapter9Collections.DuckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter9Collections.DuckKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter9Collections.PracticingWithCollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter9Collections.PracticingWithCollectionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter9Collections.PracticingWithCollectionsKt" />
         <item itemvalue="Kotlin.chapter9Collections.MixedMessages9Kt" />
         <item itemvalue="Kotlin.chapter9Collections.GlossaryKt" />
         <item itemvalue="Kotlin.chapter9Collections.CollectionsKt" />
         <item itemvalue="Kotlin.chapter9Collections.PetsKt" />
-        <item itemvalue="Kotlin.chapter9Collections.DuckKt" />
       </list>
     </recent_temporary>
   </component>
