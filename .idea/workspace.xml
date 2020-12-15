@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter9Collections/PracticingWithCollections.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/MixedMessages9Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/MixedMessages9Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Collections.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/Duck.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/Duck.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/MixedMessages9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/MixedMessages9.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/activityOne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/activityOne.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PracticingWithCollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PracticingWithCollectionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/PracticingWithCollections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/PracticingWithCollections.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

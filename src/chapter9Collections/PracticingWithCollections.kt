@@ -7,7 +7,9 @@ fun main() {
 
     mDestinationsArray[2] = "Italy"
 
-    println(mDestinationsArray)
+    for (item in mDestinationsArray) {
+        println(item)
+    }
 
     val mDestinationsList = listOf(
         "Orlando",
@@ -24,6 +26,8 @@ fun main() {
     println(mDestinationsList.size)
     println(mDestinationsList)
     val mDestinationsSet = mDestinationsList.toMutableSet()
+    mDestinationsSet.add("New Jersey")
+    mDestinationsSet.add("Seattle")
     println(mDestinationsSet)
     println(mDestinationsSet.size)
 
