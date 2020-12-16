@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter7Data/GroceryStore.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PracticingWithCollectionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter9Collections/PracticingWithCollectionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter9Collections/PracticingWithCollections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter9Collections/PracticingWithCollections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,28 +46,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter9Collections.PracticingWithCollectionsKt">
-    <configuration name="chapter9Collections.CollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.chapter7Data.GroceryStoreKt">
+    <configuration name="chapter7Data.GroceryStoreKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter9Collections.CollectionsKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter7Data.GroceryStoreKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter9Collections.GlossaryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="chapter7Data.PesonalInformationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter9Collections.GlossaryKt" />
+      <option name="MAIN_CLASS_NAME" value="chapter7Data.PesonalInformationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter7Data.RecipeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter7Data.RecipeKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,19 +94,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chapter9Collections.MixedMessages9Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chapter9Collections.PetsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter9Collections.PetsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter7Data.GroceryStoreKt" />
+        <item itemvalue="Kotlin.chapter7Data.PesonalInformationKt" />
+        <item itemvalue="Kotlin.chapter7Data.RecipeKt" />
         <item itemvalue="Kotlin.chapter9Collections.PracticingWithCollectionsKt" />
         <item itemvalue="Kotlin.chapter9Collections.MixedMessages9Kt" />
-        <item itemvalue="Kotlin.chapter9Collections.GlossaryKt" />
-        <item itemvalue="Kotlin.chapter9Collections.CollectionsKt" />
-        <item itemvalue="Kotlin.chapter9Collections.PetsKt" />
       </list>
     </recent_temporary>
   </component>
