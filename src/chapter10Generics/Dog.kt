@@ -1,4 +1,4 @@
 package chapter10Generics
 
-class Dog(name: String) : Pet(name){
+class Dog(name: String) : Pet(name) {
 }

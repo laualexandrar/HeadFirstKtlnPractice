@@ -11,7 +11,7 @@ class Contest<T : Pet> {
     fun getWinners(): MutableSet<T> {
         val highScore = scores.values.max()
         val winners: MutableSet<T> = mutableSetOf()
-        for((t, score) in scores){
+        for ((t, score) in scores) {
             if (score == highScore) winners.add(t)
         }
         return winners

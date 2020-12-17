@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Cat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Contest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Dog.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Fish.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Pet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/CatRetailer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/DogRetailer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/FishRetailer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/PetOwner.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Retailer.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10Generics/Contest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10Generics/Contest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10Generics/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10Generics/Dog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter10Generics/Pet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter10Generics/Pet.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -59,6 +62,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chapter10Generics.PetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter10Generics.PetOwnerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter10Generics.PetOwnerKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,26 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter9Collections.PracticingWithCollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter9Collections.PracticingWithCollectionsKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.chapter10Generics.PetKt" />
+        <item itemvalue="Kotlin.chapter10Generics.PetOwnerKt" />
         <item itemvalue="Kotlin.chapter7Data.GroceryStoreKt" />
         <item itemvalue="Kotlin.chapter7Data.PesonalInformationKt" />
         <item itemvalue="Kotlin.chapter7Data.RecipeKt" />
-        <item itemvalue="Kotlin.chapter9Collections.PracticingWithCollectionsKt" />
       </list>
     </recent_temporary>
   </component>
