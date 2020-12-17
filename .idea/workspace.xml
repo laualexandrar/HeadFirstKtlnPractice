@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter7Data/GroceryStore.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Cat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Contest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Dog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Fish.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter10Generics/Pet.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
     </list>
@@ -16,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -46,7 +50,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter7Data.GroceryStoreKt">
+  <component name="RunManager" selected="Kotlin.chapter10Generics.PetKt">
+    <configuration name="chapter10Generics.PetKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter10Generics.PetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chapter7Data.GroceryStoreKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -86,19 +103,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter9Collections.MixedMessages9Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter9Collections.MixedMessages9Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="chapter9Collections.PracticingWithCollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter10Generics.PetKt" />
         <item itemvalue="Kotlin.chapter7Data.GroceryStoreKt" />
         <item itemvalue="Kotlin.chapter7Data.PesonalInformationKt" />
         <item itemvalue="Kotlin.chapter7Data.RecipeKt" />
         <item itemvalue="Kotlin.chapter9Collections.PracticingWithCollectionsKt" />
-        <item itemvalue="Kotlin.chapter9Collections.MixedMessages9Kt" />
       </list>
     </recent_temporary>
   </component>
