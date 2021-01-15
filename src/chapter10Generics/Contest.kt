@@ -1,6 +1,6 @@
 package chapter10Generics
 
-class Contest<T : Pet> {
+class Contest<T : Pet> (var vet: Vet<in T>){
 
     var scores: MutableMap<T, Int> = mutableMapOf()
 
