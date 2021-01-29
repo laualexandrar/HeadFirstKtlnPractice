@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter11Lambdas/MixedMessages11.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter11Lambdas/PoolPuzzleLambdas.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/PracticingCoding/Library/LibraryKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/PracticingCoding/Library/LibraryKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter10Generics/Contest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter10Generics/Contest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter10Generics/PetKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter10Generics/PetKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt$main$addFive$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt$main$addInts$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt$main$addSeven$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt$main$intLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt$main$myLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/LambdasKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/MixedMessages11Kt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/MixedMessages11Kt$main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/MixedMessages11Kt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/MixedMessages11Kt$main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/MixedMessages11Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/MixedMessages11Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11Lambdas/Lambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter11Lambdas/Lambdas.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +25,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -50,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter11Lambdas.MixedMessages11Kt">
+  <component name="RunManager" selected="Kotlin.chapter11Lambdas.LambdasKt">
     <configuration name="PracticingCoding.Library.LibraryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -90,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter11Lambdas.LambdasKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter11Lambdas.LambdasKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="chapter11Lambdas.MixedMessages11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -103,26 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="chapter7Data.GroceryStoreKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter7Data.GroceryStoreKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter11Lambdas.LambdasKt" />
         <item itemvalue="Kotlin.chapter11Lambdas.MixedMessages11Kt" />
         <item itemvalue="Kotlin.PracticingCoding.Library.LibraryKt" />
         <item itemvalue="Kotlin.chapter10Generics.PetKt" />
         <item itemvalue="Kotlin.chapter10Generics.PetOwnerKt" />
-        <item itemvalue="Kotlin.chapter7Data.GroceryStoreKt" />
       </list>
     </recent_temporary>
   </component>
