@@ -1,6 +1,6 @@
 package chapter11Lambdas
 
-typealias DoubleConversion = (Double) -> Double
+typealias DoubleConversion = (Double) -> Double // this alias called DoubleConversion is going to replace the (Double) -> Double
 
 fun convert(x: Double,
     converter: DoubleConversion): Double {
@@ -10,19 +10,19 @@ fun convert(x: Double,
 }
 
 fun getConversionLambda(str: String): DoubleConversion {
-    if(str == "CentigradeToFahrenheit"){
-        return {it * 1.8 + 32}
-    }  else if (str == "kgsToPounds") {
-        return {it * 2.204623}
+    if (str == "CentigradeToFahrenheit") {
+        return { it * 1.8 + 32 }
+    } else if (str == "kgsToPounds") {
+        return { it * 2.204623 }
     } else if (str == "PoundsToUsTons") {
-        return {it / 2000.0}
+        return { it / 2000.0 }
     } else {
-        return {it}
+        return { it }
     }
 }
 
-fun combine(lambda1:DoubleConversion, lambda2:DoubleConversion): DoubleConversion {
-    return { x: Double-> lambda2(lambda1(x))}
+fun combine(lambda1: DoubleConversion, lambda2: DoubleConversion): DoubleConversion {
+    return { x: Double -> lambda2(lambda1(x)) }
 }
 
 fun main() {
