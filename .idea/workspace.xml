@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222f2cce-8a66-45c2-bf39-96ee3777296b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter12Extra/Grocery.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter12Extra/Pizza.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12Extra/MixMessages12.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter12Extra/PetPool.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/META-INF/HeadFirstKtlnExercises.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt$main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt$main$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt$main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt$main$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter11Lambdas/CodeMagnetsGroceryKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter12Extra/GroceryKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HeadFirstKtlnExercises/chapter12Extra/GroceryKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12Extra/Grocery.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter12Extra/Grocery.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.chapter12Extra.GroceryKt">
+  <component name="RunManager" selected="Kotlin.chapter12Extra.MixMessages12Kt">
     <configuration name="chapter11Lambdas.CodeMagnetsGroceryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="HeadFirstKtlnExercises" />
       <option name="VM_PARAMETERS" />
@@ -74,19 +72,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="chapter11Lambdas.LambdasKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chapter11Lambdas.MixedMessages11Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="HeadFirstKtlnExercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="chapter11Lambdas.MixedMessages11Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="chapter12Extra.MixMessages12Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="HeadFirstKtlnExercises" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter12Extra.MixMessages12Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.chapter12Extra.MixMessages12Kt" />
         <item itemvalue="Kotlin.chapter12Extra.GroceryKt" />
         <item itemvalue="Kotlin.chapter11Lambdas.CodeMagnetsGroceryKt" />
         <item itemvalue="Kotlin.chapter11Lambdas.LambdasKt" />
         <item itemvalue="Kotlin.chapter11Lambdas.PoolPuzzleLambdasKt" />
-        <item itemvalue="Kotlin.chapter11Lambdas.MixedMessages11Kt" />
       </list>
     </recent_temporary>
   </component>
